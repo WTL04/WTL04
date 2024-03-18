@@ -1,6 +1,6 @@
 - Hi, I’m @WTL04 which stands for my full name William Thinh Luu and the year I was born!
 - Some of my hobbies are playing video games, volleyball, going on bike rides, and swimming. 
-- I’m currently learning C++, the basics of Python, and reviewing HTML/CSS/Javascript.
+- I’m currently learning C++, reviewing Python and HTML/CSS/Javascript.
 - I’m looking to collaborate on anything of entry level so I can develop my skills.
 - You can reach me through my email williamluu04@gmail.com or message me through Instagram @willy.am.luu.
 
