@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm William Luu!</h1>
 <h3 align="center">CSULB second year interested in full stack dev and game design</h3>
 
-- 🔭 I’m currently working on [Super Tic Tac Toe on Unity](https://github.com/WTL04/Unity_SuperTicTacToe)
+- 🔭 I’m currently working on [GTH React Application](https://github.com/WTL04/GTH_React)
 
-- 🌱 I’m currently learning **C++, Unity, and Web Development**
+- 🌱 I’m currently learning **React, Haskell, C, TypeScript, HTML, CSS**
 
 - 📫 How to reach me **williamluu04@gmail.com**
 
