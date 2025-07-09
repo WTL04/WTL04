@@ -4,7 +4,7 @@ Computer Science student at California State University, Long Beach, with a focu
 
 # Currently Learning 
 - computer vision implmentation
-- NLP models
+- react native for a computer vision mobile app
 - data science and analysis
 - centering a div
 - neovim
