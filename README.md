@@ -3,9 +3,6 @@ Computer Science student at California State University, Long Beach, with a focu
 
 
 # Currently Learning 
-- computer vision implmentation
 - data science, visualization, analysis
-- centering a div
-- neovim
-- already using arch
-- going outside
+- deep learing
+- bayes optimization
